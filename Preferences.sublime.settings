@@ -1,6 +1,8 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"fade_fold_buttons": false,
 	"font_face": "Dejavu Sans Mono",
 	"font_options":
 	[
@@ -8,20 +10,18 @@
 	],
 	"font_size": 10,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter-php"
+		"Vintage"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
 	"preview_on_click": false,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	//"theme": "Soda Dark.sublime-theme",
 	"theme": "Spacegray.sublime-theme",
-    	//"color_scheme": "Packages/User/Twilight_claro (SL).tmTheme",
-    	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
